@@ -1,4 +1,4 @@
-This project is created by watching tutorial of JavaScript Mastery video.
+This project is created by watching tutorial of JavaScript Mastery video.\
 Link to video → https://www.youtube.com/watch?v=LMagNcngvcU&t=5889s
 
 # Getting Started with Create React App
