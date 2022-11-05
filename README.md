@@ -1,3 +1,6 @@
+This project is created by watching tutorial of JavaScript Mastery video.
+Link to video → https://www.youtube.com/watch?v=LMagNcngvcU&t=5889s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
